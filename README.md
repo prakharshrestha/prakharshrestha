@@ -53,8 +53,11 @@ I'm a Computer Science and Engineering student at **KLE Technological University
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakhar%20Shrestha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-shrestha-b9527027a/)
-[![Email](https://img.shields.io/badge/Email-prakhar.shrestha%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakhar.shrestha@gmail.com)
+## 📫 Connect With Me
+
+**LinkedIn:** [Prakhar Shrestha](https://www.linkedin.com/in/prakhar-shrestha-b9527027a/)
+
+**Email:** [prakhar.shrestha@gmail.com](mailto:prakhar.shrestha@gmail.com)
 
 ---
 
